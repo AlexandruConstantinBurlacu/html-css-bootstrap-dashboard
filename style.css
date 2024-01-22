@@ -14,8 +14,9 @@
 .personal_aside {
     width: 100px;
 
-    /* test */
-    background-color: rgba(0, 0, 255, 0.155);
+    background-image: url(img/img/sidebar-bg.png);
+
+    background-color: #051e34;
 }
 
 .personal_main {

@@ -2,3 +2,27 @@
     width: 100%;
     height: 70px;
 }
+
+.personal_container {
+    height: calc(100vh - 70px);
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+}
+
+.personal_aside {
+    width: 100px;
+
+    /* test */
+    background-color: rgba(0, 0, 255, 0.155);
+}
+
+.personal_main {
+    width: calc(100% - 100px);
+
+    overflow-y: auto;
+
+    /* test */
+    background-color: rgba(255, 0, 0, 0.163);
+}
